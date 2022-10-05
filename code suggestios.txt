@@ -1,0 +1,2 @@
+The ability to search for professors in "database access"
+When deleting databases there should be an option to choose which one you'd like to delete
